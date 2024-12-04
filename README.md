@@ -12,9 +12,6 @@ Filtros de Consulta: Pesquisa por data, tipo de compra, cliente e quarto.
 Backend: Java com Spring Boot.
 Frontend: Angular.
 Banco de Dados: PostgreSQL.
-Outras Ferramentas:
-Chart.js ou ngx-charts (dashboard).
-Lombok, Spring Data JPA e Flyway (backend).
-Bootstrap ou Angular Material (frontend).
+
 🌟 Objetivos do Projeto
 Este projeto foi idealizado como uma solução prática para um problema real e documentado como parte de um portfólio profissional. Ele serve para demonstrar habilidades técnicas em desenvolvimento full stack e boas práticas de desenvolvimento de software.
